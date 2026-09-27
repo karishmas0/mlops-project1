@@ -1,0 +1,5 @@
+username= karishma05cs_db_user
+password = JulwsMd8el5cpklL
+
+
+mongodb+srv://karishma05cs_db_user:<db_password>@cluster0.lelrszr.mongodb.net/?appName=Cluster0
