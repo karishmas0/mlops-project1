@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+
+mongoDB_demo.ipynb
+mangodbdetails.txt
