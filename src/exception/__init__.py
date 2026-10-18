@@ -49,4 +49,6 @@ class MYException(Exception):
         """
         
         return self.error_message
-        
+
+
+MyException = MYException      
